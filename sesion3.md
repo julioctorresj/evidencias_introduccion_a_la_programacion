@@ -23,7 +23,7 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 _____
 _____
 ## Solución
-
+_______
 ``````` html
 <!DOCTYPE html>
 <html lang="en">
