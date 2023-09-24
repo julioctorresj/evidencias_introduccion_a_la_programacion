@@ -65,7 +65,8 @@ para crear secciones o contenedores para tu contenido, lo que puede facilitar la
 ____
 ____
 
-```` html <!DOCTYPE html>
+```` html
+ <!DOCTYPE html>
 <html>
 
 <head>
