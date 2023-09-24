@@ -23,6 +23,28 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 _____
 _____
 
+``````` html
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="uft-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 
-
+<body>
+    <h1></h1>
+    <table border="10" align="6" cellpadding="20" cellspacing="10" valign="5"></table>
+    <thead>
+        <tr>
+            <th>Codigo</th>
+            <th>Nombre</th>
+            <th colspan="7">Descripcion</th>
+            <th>Stock</th>
+            <th>Precio</th>
+            <th>Fecha De <br>Creacion</th>
+        </tr>
+    </thead>
+</body>
+</html>
