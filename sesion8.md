@@ -76,8 +76,9 @@ Centrar el contenido de la sección
  <section>
 ```
 <!-- Su documentación aquí -->
-#
- Solución
+
+# Solución
+__________________________
 
 ```html
 
@@ -119,12 +120,12 @@ Centrar el contenido de la sección
         </div>
         <div>
             <h3>Lobo Blanco</h3>
-            <img src="img/lobo_blanco.jpg" alt="lobo_blanco" width="500" style="border: 2px solid black;">
+            <img src="https://firebasestorage.googleapis.com/v0/b/evidencias1-7176a.appspot.com/o/lobo_blanco.jpg?alt=media&token=6bb81c34-0cbb-4ddc-9bd6-e2469fc9e595&_gl=1*aapr4l*_ga*MzUyNzg5MDg5LjE2OTQ3Mzg1Mjk.*_ga_CW55HF8NVT*MTY5NjAxMjYxMi44LjEuMTY5NjAxMjcxNC4xOC4wLjA." alt="lobo_blanco" width="500" style="border: 2px solid black;">
         </div>
         <br>
         <div>
             <h3>Lobo Gris</h3>
-            <img src="img/lobo_gris.jpg" alt="lobo_gris" width="400" style="border: 2px solid black;">
+            <img src="https://firebasestorage.googleapis.com/v0/b/evidencias1-7176a.appspot.com/o/lobo_gris.jpg?alt=media&token=c52b037a-1b61-4cf8-a7c8-20569527ea62&_gl=1*jysp58*_ga*MzUyNzg5MDg5LjE2OTQ3Mzg1Mjk.*_ga_CW55HF8NVT*MTY5NjAxMjYxMi44LjEuMTY5NjAxMjc1OS42MC4wLjA." alt="lobo_gris" width="400" style="border: 2px solid black;">
         </div>
 
         <footer>
@@ -138,6 +139,7 @@ Centrar el contenido de la sección
 ```
 ________________
 ________________
+
 ## css externo
 
 _________________
