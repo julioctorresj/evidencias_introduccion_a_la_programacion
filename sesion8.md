@@ -12,50 +12,66 @@ Pasos:
 Crea el esqueleto de una página web simple con la siguiente estructura:
 
 - Encabezado 
-```html
+  
+ ```html
  <header>
- ```
+  ```
+
 - Tres párrafos 
+  
 ```html
   <p>
 ```
-- Una imagen 
+
+- Una imagen
+   
 ```html
    <img>
   ```
-- Un pie de página 
+
+- Un pie de página
+   
 ```html
 <footer>
 ```
+
 - Aplica los siguientes estilos usando selectores de etiqueta:
 
 Color rojo a los encabezados 
+
 ```html
 <h1>
 ```
 Color azul a los párrafos 
+
 ```html
 <p>
 ```
 Borde grueso negro a la imagen 
+
 ```html
 <img>
 ```
+
 ### Aplica los siguientes estilos usando seleccionadores de clase:
 
 - Color verde a los elementos con la clase ".destacado"
+  
 - Tamaño de fuente grande a los elementos con la clase ".grande"
+  
 ### Aplica los siguientes estilos usando seleccionadores de ID:
 
 - Color amarillo al elemento con ID "#principal"
 - Sombra al elemento con ID "#sombras"
 - Aplica los siguientes estilos usando seleccionadores descendientes:
 
-Color gris a los párrafos dentro de un 
+Color gris a los párrafos dentro de un
+
 ```html
 <div>
 ```
 Centrar el contenido de la sección
+
 ```html
  <section>
 ```
@@ -64,6 +80,7 @@ Centrar el contenido de la sección
  Solución
 
 ```html
+
 <!DOCTYPE html>
 <html>
 
@@ -119,7 +136,12 @@ Centrar el contenido de la sección
 
 </html>
 ```
+________________
+________________
 ## css externo
+
+_________________
+_________________
 
 ```css
 footer {background-color: aquamarine;
