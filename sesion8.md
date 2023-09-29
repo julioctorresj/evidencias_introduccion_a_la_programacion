@@ -60,7 +60,8 @@ Centrar el contenido de la sección
  <section>
 ```
 <!-- Su documentación aquí -->
-# Solución
+#
+ Solución
 
 ```html
 <!DOCTYPE html>
